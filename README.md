@@ -26,9 +26,12 @@
 
 <h3>مشاريعي 🛠️</h3>
 <ul>
-  <li><b>موقع JOE Games Studio</b> - موقع بعرض فيه مشاريع الألعاب اللي هشتغل عليها قريب.</li>
-  <li><b>قناة Fire على اليوتيوب</b> - قناتي الجديدة عن الجيمنج والبرمجة والمحتوى التقني.</li>
-  <li><b>نظام Smart Sales System</b> - برنامج لإدارة المبيعات هطوره باستخدام PHP وLaravel إن شاء الله.</li>
+  <li><b>موقع الله يرحمك</b> - <a href="https://yousef-elnawawy.github.io/rippo/" target="_blank">شاهد الموقع</a></li>
+  <li><b>موقع كل سنة وأنت طيب</b> - <a href="https://yousef-elnawawy.github.io/birth/" target="_blank">شاهد الموقع</a></li>
+  <li><b>موقع فوازير</b> - <a href="https://yousef-elnawawy.github.io/fawazer/" target="_blank">شاهد الموقع</a></li>
+  <li><b>موقع زر الطفش</b> - <a href="https://yousef-elnawawy.github.io/tafash/" target="_blank">شاهد الموقع</a></li>
+  <li><b>العابي على سكراتش</b> - <a href="scratch.html" target="_blank">شاهد الألعاب</a></li>
+  <li><b>قناتي على يوتيوب</b> - <a href="https://www.youtube.com/@Fire675_nawawy" target="_blank">شاهد القناة</a></li>
 </ul>
 
 <h3>آخر فيديوهاتي 📺</h3>
